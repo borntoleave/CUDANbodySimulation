@@ -1,1 +1,1 @@
-# NbodySimulationCUDA
+# CUDA NbodySimulation
